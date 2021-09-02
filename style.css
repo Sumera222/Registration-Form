@@ -1,0 +1,26 @@
+body {
+    background-color: rgb(2, 2, 71);
+}
+
+.heading {
+    padding: 20px;
+    margin: 40px 30px;
+    text-align: center;
+    font-family: 'IBM Plex Sans Arabic', cursive;
+    color: white;
+}
+label {
+    font-weight: bold;
+    font-family: 'Tahoma', cursive;
+    color: rgb(151, 241, 241);
+    padding: 22px;
+}
+.button {
+    text-align: center;
+    width: 100%;
+}
+.btn {
+    color: maroon;
+    font-weight: bold;
+    background-color: rgb(132, 204, 204);
+}
